@@ -1,0 +1,12 @@
+{
+    "name": "ifedor/sonline-api",
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "authors": [
+        {
+            "name": "ifedorchuk",
+            "email": "bkmz92@gmail.com"
+        }
+    ]
+}
